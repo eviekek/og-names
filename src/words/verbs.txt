@@ -304,6 +304,9 @@ generate
 get
 govern
 grasp
+graze
+grazed
+grazing
 greet
 grow
 halt
